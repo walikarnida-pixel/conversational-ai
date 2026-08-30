@@ -1,0 +1,5 @@
+streamlit>=1.30
+pytest>=7.0
+# Optional (only if you add a real API key):
+# openai>=1.0
+# python-dotenv>=1.0
